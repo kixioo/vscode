@@ -6,3 +6,4 @@ def smallest_factor(n):
         k += 1
 a = smallest_factor(30)
 print(a)
+你好呀
