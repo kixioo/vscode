@@ -7,3 +7,4 @@ def smallest_factor(n):
 a = smallest_factor(30)
 print(a)
 你好呀
+你好同志
