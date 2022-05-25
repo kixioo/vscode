@@ -5,6 +5,5 @@ def smallest_factor(n):
             return k
         k += 1
 a = smallest_factor(30)
-print(a)
-你好呀
-你好同志
+print(a+10)
+
